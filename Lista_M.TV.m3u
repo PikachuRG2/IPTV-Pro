@@ -1,311 +1,490 @@
 #EXTM3U
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/R7HHdp.png",OS SIMPSONS
+#EXTINF:-1,TVi Realitys
+#EXTIMG:https://imgur.com/hbkDjva.png
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+#EXTINF:-1,TV da Gente
+#EXTIMG:https://i.imgur.com/jbCBogB.png
+https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
+#EXTINF:-1,Igreja Universal
+#EXTIMG:https://i.imgur.com/TIsk5zN.png 
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1,Rede Gospel
+#EXTIMG:https://i.imgur.com/ngbsXOB.png
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1,TV SIM São Mateus
+#EXTIMG:https://i.imgur.com/tLkF2BE.png
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1,Globo Brasília FHD
+http://sinalprivado.info:80/6198603/6198603/18012
+#EXTINF:-1,Globo Brasília HD
+http://sinalprivado.info:80/6198603/6198603/18013
+#EXTINF:-1,Globo Brasília SD
+http://sinalprivado.info:80/6198603/6198603/18014
+#EXTINF:-1,Globo Minas FHD
+http://sinalprivado.info:80/6198603/6198603/18015
+#EXTINF:-1,Globo Minas HD
+http://sinalprivado.info:80/6198603/6198603/18016
+#EXTINF:-1,Globo Minas SD
+http://sinalprivado.info:80/6198603/6198603/18017
+#EXTINF:-1,Globo Nordeste FHD
+http://sinalprivado.info:80/6198603/6198603/18018
+#EXTINF:-1,Globo Nordeste HD
+http://sinalprivado.info:80/6198603/6198603/18019
+#EXTINF:-1,Globo Nordeste SD
+http://sinalprivado.info:80/6198603/6198603/18020
+#EXTINF:-1,Globo Rio FHD
+http://sinalprivado.info:80/6198603/6198603/18021
+#EXTINF:-1,Globo Rio HD
+http://sinalprivado.info:80/6198603/6198603/18022
+#EXTINF:-1,Globo Rio SD
+http://sinalprivado.info:80/6198603/6198603/18023
+#EXTINF:-1,Globo São Paulo FHD
+http://sinalprivado.info:80/6198603/6198603/18024
+#EXTINF:-1,Globo São Paulo HD
+http://sinalprivado.info:80/6198603/6198603/18025
+#EXTINF:-1,Globo São Paulo SD
+#EXTINF:-1,TV Mirante Balsas HD
+http://sinalprivado.info:80/6198603/6198603/18151
+#EXTINF:-1,TV Mirante Balsas SD
+http://sinalprivado.info:80/6198603/6198603/18152
+#EXTINF:-1,SBT Interior
+#EXTIMG https://example.com/icon.png
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1,RecordTV Juara HD
+#EXTIMG:https://imgur.com/lyQ1v9M.png
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1,Band Arapuan HD
+#EXTIMG:https://i.imgur.com/yyFeDm7.png
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
+#EXTINF:-1,RedeTV! 
+#EXTIMG:https://imgur.com/2vYqKX5.png
+https://cdn2.easy.tv.br/redetv/index.m3u8
+#EXTINF:-1,WORDING TV
+#EXTIMG:https://i.imgur.com/C5nMqAf.png
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+#EXTINF:-1,TV Cultura Brasil 
+#EXTIMG:https://i.imgur.com/xL9QvHp.png
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1,4 POR 4 
+#EXTIMG:https://i.imgur.com/B1KhZs2.png
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+#EXTINF:-1,Record News HD
+#EXTIMG:https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+#EXTINF:-1,TV VIDEONEWS
+#EXTIMG:https://imgur.com/4m1j3CL.png
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1,Motorvision |PT HD
+#EXTIMG:https://imgur.com/jlhvLJb.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
+#EXTINF:-1,Sony Novelas | LG
+#EXTIMG:https://i.imgur.com/mqEHDE1.png
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,MOVIE SPHERE
+#EXTIMG:https://imgur.com/92rUCKL.png
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1,Sony One Classics
+#EXTIMG:https://imgur.com/9xo2bJt.png
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cine Monde
+#EXTIMG:https://i.imgur.com/dpat1CH.png
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1,CHANNEL ONE 
+#EXTIMG:https://imgur.com/u8XN65I.png
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1,TV Novo Tempo SD
+#EXTIMG:https://i.imgur.com/wEOoyzq.png
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
+#EXTINF:-1,TV GAZETA NORTE MINEIRA
+#EXTIMG:https://imgur.com/3YP7dFy.png
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1,CLASSIQUE TV WETERN
+#EXTIMG:https://westerntvclassics.com/wp-content/uploads/2018/07/westernclassics-header-logo.png
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
+#EXTINF:-1,CLASSIQUE TV SERIES
+#EXTIMG:https://imgur.com/YvJ3OPd.png
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,CLASSIQUE TV
+#EXTIMG:https://imgur.com/mvuZGvt.png
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1,TV RIO MADEIRA
+#EXTIMG:https://imgur.com/Klwjy9d.png
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1,TV OURO NEGRO
+#EXTIMG:https://imgur.com/mfdXYXs.png
+https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+#EXTINF:-1,AgitoMax
+#EXTIMG:https://i.imgur.com/oyShsQU.png
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1, Universo TV
+#EXTIMG:https://i.imgur.com/TQKRfvo.png
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+
+
+#EXTINF:-1,Runtime Ação HD
+#EXTIMG:https://imgur.com/3Wpaz9E.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1,Runtime TV e Filmes HD
+#EXTIMG:https://imgur.com/5aavtj1.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1,Runtime Comédia HD 
+#EXTIMG:https://imgur.com/TZ7LfjB.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1,Runtime Família 
+#EXTIMG:https://imgur.com/pFtnILf.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1,Runtime Romance
+#EXTIMG:https://imgur.com/U6ElKK3.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1,Runtime Cine Espanto
+#EXTIMG:https://imgur.com/bzX7MO8.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1,Runtime Crime
+#EXTIMG:https://imgur.com/KQt9WGA.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+
+#EXTINF:-1,A&E HD
+http://sinalprivado.info:80/6198603/6198603/12001
+#EXTINF:-1,A&E SD
+http://sinalprivado.info:80/6198603/6198603/12002
+#EXTINF:-1,Discovery Channel FHD
+http://sinalprivado.info:80/6198603/6198603/23009
+#EXTINF:-1,Discovery Channel HD
+http://sinalprivado.info:80/6198603/6198603/23010
+#EXTINF:-1,Discovery Channel SD
+http://sinalprivado.info:80/6198603/6198603/23011
+#EXTINF:-1,ID: Investigação Discovery HD
+http://sinalprivado.info:80/6198603/6198603/23031
+#EXTINF:-1,ID: Investigação Discovery SD
+http://sinalprivado.info:80/6198603/6198603/23032
+#EXTINF:-1,Cartoon Network FHD
+http://sinalprivado.info:80/6198603/6198603/24003
+#EXTINF:-1,Cartoon Network HD
+http://sinalprivado.info:80/6198603/6198603/24004
+#EXTINF:-1,Cartoon Network SD
+http://sinalprivado.info:80/6198603/6198603/24005
+#EXTINF:-1,Cartoonito FHD
+http://sinalprivado.info:80/6198603/6198603/24006
+#EXTINF:-1,Nick Jr HD
+http://sinalprivado.info:80/6198603/6198603/24022
+#EXTINF:-1,Nick Jr SD
+http://sinalprivado.info:80/6198603/6198603/24023
+#EXTINF:-1,Nickelodeon FHD
+http://sinalprivado.info:80/6198603/6198603/24024
+#EXTINF:-1,Nickelodeon HD
+http://sinalprivado.info:80/6198603/6198603/24025
+#EXTINF:-1,Nickelodeon SD
+http://sinalprivado.info:80/6198603/6198603/24026
+#EXTINF:-1,Warner Channel FHD
+http://sinalprivado.info:80/6198603/6198603/13051
+#EXTINF:-1,Warner Channel HD
+http://sinalprivado.info:80/6198603/6198603/13052
+#EXTINF:-1,Warner Channel SD
+http://sinalprivado.info:80/6198603/6198603/13053
+#EXTINF:-1,Space FHD
+http://sinalprivado.info:80/6198603/6198603/13027
+#EXTINF:-1,Space HD
+http://sinalprivado.info:80/6198603/6198603/13028
+#EXTINF:-1,Space SD
+#EXTINF:-1,Multishow FHD
+http://sinalprivado.info:80/6198603/6198603/12045
+#EXTINF:-1,Multishow HD
+http://sinalprivado.info:80/6198603/6198603/12046
+#EXTINF:-1,Multishow SD
+http://sinalprivado.info:80/6198603/6198603/12047
+EXTINF:-1,TV Gazeta Sul HD
+http://sinalprivado.info:80/6198603/6198603/18253
+#EXTINF:-1,TV Gazeta Sul SD
+http://sinalprivado.info:80/6198603/6198603/18254
+#EXTINF:-1,TV Anhanguera Palmas FHD
+http://sinalprivado.info:80/6198603/6198603/18255
+#EXTINF:-1,TV Anhanguera Palmas HD
+http://sinalprivado.info:80/6198603/6198603/18256
+#EXTINF:-1,TV Anhanguera Palmas SD
+http://sinalprivado.info:80/6198603/6198603/18257
+#EXTINF:-1,RBS TV Santa Cruz FHD
+http://sinalprivado.info:80/6198603/6198603/18258
+#EXTINF:-1,RBS TV Santa Cruz HD
+http://sinalprivado.info:80/6198603/6198603/18259
+#EXTINF:-1,RBS TV Santa Cruz SD
+http://sinalprivado.info:80/6198603/6198603/18260
+#EXTINF:-1,Band Sports FHD
+http://sinalprivado.info:80/6198603/6198603/19000
+#EXTINF:-1,Band Sports HD
+http://sinalprivado.info:80/6198603/6198603/19001
+#EXTINF:-1,Band Sports SD
+http://sinalprivado.info:80/6198603/6198603/19002
+#EXTINF:-1,UFC Fight Pass 1 (reprises)
+http://sinalprivado.info:80/6198603/6198603/19003
+#EXTINF:-1,UFC Fight Pass 2 (ao vivo)
+http://sinalprivado.info:80/6198603/6198603/19004
+#EXTINF:-1,UFC Fight Pass 3 (ao vivo)
+http://sinalprivado.info:80/6198603/6198603/19005
+#EXTINF:-1,Combate FHD
+http://sinalprivado.info:80/6198603/6198603/19006
+#EXTINF:-1,Combate HD
+http://sinalprivado.info:80/6198603/6198603/19007
+#EXTINF:-1,Combate SD
+http://sinalprivado.info:80/6198603/6198603/19008
+#EXTINF:-1,Amazon Prime Video 01
+http://sinalprivado.info:80/6198603/6198603/19021
+#EXTINF:-1,Amazon Prime Video 02
+http://sinalprivado.info:80/6198603/6198603/19022
+#EXTINF:-1,Amazon Prime Video 03
+http://sinalprivado.info:80/6198603/6198603/19023
+#EXTINF:-1,SportyNet 01
+http://sinalprivado.info:80/6198603/6198603/19024
+#EXTINF:-1,SportyNet 02
+http://sinalprivado.info:80/6198603/6198603/19025
+#EXTINF:-1,SportyNet 03
+http://sinalprivado.info:80/6198603/6198603/19026
+#EXTINF:-1,SportyNet 04
+http://sinalprivado.info:80/6198603/6198603/19027
+#EXTINF:-1,DAZN 1
+http://sinalprivado.info:80/6198603/6198603/19028
+#EXTINF:-1,DAZN 2
+http://sinalprivado.info:80/6198603/6198603/19029
+#EXTINF:-1,DAZN 3
+http://sinalprivado.info:80/6198603/6198603/19030
+#EXTINF:-1,MAX 01
+http://sinalprivado.info:80/6198603/6198603/19033
+#EXTINF:-1,MAX 02
+http://sinalprivado.info:80/6198603/6198603/19034
+#EXTINF:-1,MAX 03
+http://sinalprivado.info:80/6198603/6198603/19035
+#EXTINF:-1,MAX 04
+http://sinalprivado.info:80/6198603/6198603/19036
+#EXTINF:-1,MAX 05
+http://sinalprivado.info:80/6198603/6198603/19037
+#EXTINF:-1,Paulistão
+http://sinalprivado.info:80/6198603/6198603/19038
+#EXTINF:-1,Disney+ 1
+http://sinalprivado.info:80/6198603/6198603/19041
+#EXTINF:-1,Disney+ 2
+http://sinalprivado.info:80/6198603/6198603/19042
+#EXTINF:-1,Disney+ 3
+http://sinalprivado.info:80/6198603/6198603/19043
+#EXTINF:-1,Furacão TV
+http://sinalprivado.info:80/6198603/6198603/19044
+#EXTINF:-1,FORMULA 1 TV
+http://sinalprivado.info:80/6198603/6198603/19045
+#EXTINF:-1,NSports FHD
+http://sinalprivado.info:80/6198603/6198603/19064
+#EXTINF:-1,NSports HD
+http://sinalprivado.info:80/6198603/6198603/19065
+#EXTINF:-1,NSports SD
+http://sinalprivado.info:80/6198603/6198603/19066
+#EXTINF:-1,CazeTV 01
+http://sinalprivado.info:80/6198603/6198603/19068
+#EXTINF:-1,CazeTV 02
+http://sinalprivado.info:80/6198603/6198603/19069
+#EXTINF:-1,CazeTV 03
+http://sinalprivado.info:80/6198603/6198603/19070
+#EXTINF:-1,Paramount+ 1
+http://sinalprivado.info:80/6198603/6198603/19071
+#EXTINF:-1,Paramount+ 2
+http://sinalprivado.info:80/6198603/6198603/19072
+#EXTINF:-1,Paramount+ 3
+http://sinalprivado.info:80/6198603/6198603/19073
+#EXTINF:-1,Paramount+ 4
+http://sinalprivado.info:80/6198603/6198603/19074
+#EXTINF:-1,Remo TV
+http://sinalprivado.info:80/6198603/6198603/19077
+#EXTINF:-1,PapãoTV
+http://sinalprivado.info:80/6198603/6198603/19078
+#EXTINF:-1,XSports
+http://sinalprivado.info:80/6198603/6198603/19079
+#EXTINF:-1,Canal Goat 01
+http://sinalprivado.info:80/6198603/6198603/19080
+#EXTINF:-1,Canal Goat 02
+http://sinalprivado.info:80/6198603/6198603/19081
+#EXTINF:-1,Canal Goat 03
+http://sinalprivado.info:80/6198603/6198603/19082
+#EXTINF:-1,﻿Premiere 1 FHD
+http://sinalprivado.info:80/6198603/6198603/20000
+#EXTINF:-1,Premiere 1 HD
+http://sinalprivado.info:80/6198603/6198603/20001
+#EXTINF:-1,Premiere 1 SD
+http://sinalprivado.info:80/6198603/6198603/20002
+#EXTINF:-1,Premiere 2 FHD
+http://sinalprivado.info:80/6198603/6198603/20003
+#EXTINF:-1,Premiere 2 HD
+http://sinalprivado.info:80/6198603/6198603/20004
+#EXTINF:-1,Premiere 2 SD
+http://sinalprivado.info:80/6198603/6198603/20005
+#EXTINF:-1,Premiere 3 FHD
+http://sinalprivado.info:80/6198603/6198603/20006
+#EXTINF:-1,Premiere 3 HD
+http://sinalprivado.info:80/6198603/6198603/20007
+#EXTINF:-1,Premiere 3 SD
+http://sinalprivado.info:80/6198603/6198603/20008
+#EXTINF:-1,Premiere 4 FHD
+http://sinalprivado.info:80/6198603/6198603/20009
+#EXTINF:-1,Premiere 4 HD
+http://sinalprivado.info:80/6198603/6198603/20010
+#EXTINF:-1,Premiere 4 SD
+http://sinalprivado.info:80/6198603/6198603/20011
+#EXTINF:-1,Premiere 5 FHD
+http://sinalprivado.info:80/6198603/6198603/20012
+#EXTINF:-1,Premiere 5 HD
+http://sinalprivado.info:80/6198603/6198603/20013
+#EXTINF:-1,Premiere 5 SD
+http://sinalprivado.info:80/6198603/6198603/20014
+#EXTINF:-1,Premiere 6 FHD
+http://sinalprivado.info:80/6198603/6198603/20015
+#EXTINF:-1,Premiere 6 HD
+http://sinalprivado.info:80/6198603/6198603/20016
+#EXTINF:-1,Premiere 6 SD
+http://sinalprivado.info:80/6198603/6198603/20017
+#EXTINF:-1,Premiere 7 FHD
+http://sinalprivado.info:80/6198603/6198603/20018
+#EXTINF:-1,Premiere 7 HD
+http://sinalprivado.info:80/6198603/6198603/20019
+#EXTINF:-1,Premiere 7 SD
+http://sinalprivado.info:80/6198603/6198603/20020
+#EXTINF:-1,Premiere 8 FHD
+http://sinalprivado.info:80/6198603/6198603/20021
+#EXTINF:-1,Premiere 8 HD
+http://sinalprivado.info:80/6198603/6198603/20022
+#EXTINF:-1,Premiere 8 SD
+http://sinalprivado.info:80/6198603/6198603/20023
+#EXTINF:-1,SporTV FHD
+http://sinalprivado.info:80/6198603/6198603/21000
+#EXTINF:-1,SporTV HD
+http://sinalprivado.info:80/6198603/6198603/21001
+#EXTINF:-1,SporTV SD
+http://sinalprivado.info:80/6198603/6198603/21002
+#EXTINF:-1,SporTV 2 FHD
+http://sinalprivado.info:80/6198603/6198603/21003
+#EXTINF:-1,SporTV 2 HD
+http://sinalprivado.info:80/6198603/6198603/21004
+#EXTINF:-1,SporTV 2 SD
+http://sinalprivado.info:80/6198603/6198603/21005
+#EXTINF:-1,SporTV 3 FHD
+http://sinalprivado.info:80/6198603/6198603/21006
+#EXTINF:-1,SporTV 3 HD
+http://sinalprivado.info:80/6198603/6198603/21007
+#EXTINF:-1,SporTV 3 SD
+http://sinalprivado.info:80/6198603/6198603/21008
+#EXTINF:-1,SporTV 4 FHD
+http://sinalprivado.info:80/6198603/6198603/21009
+#EXTINF:-1,SporTV 4 HD
+http://sinalprivado.info:80/6198603/6198603/21010
+#EXTINF:-1,SporTV 4 SD
+http://sinalprivado.info:80/6198603/6198603/21011
+#EXTINF:-1,ESPN FHD
+http://sinalprivado.info:80/6198603/6198603/22000
+#EXTINF:-1,ESPN HD
+http://sinalprivado.info:80/6198603/6198603/22001
+#EXTINF:-1,ESPN SD
+http://sinalprivado.info:80/6198603/6198603/22002
+#EXTINF:-1,ESPN 2 FHD
+http://sinalprivado.info:80/6198603/6198603/22003
+#EXTINF:-1,ESPN 2 HD
+http://sinalprivado.info:80/6198603/6198603/22004
+#EXTINF:-1,ESPN 2 SD
+http://sinalprivado.info:80/6198603/6198603/22005
+#EXTINF:-1,ESPN 3 FHD
+http://sinalprivado.info:80/6198603/6198603/22006
+#EXTINF:-1,ESPN 3 HD
+http://sinalprivado.info:80/6198603/6198603/22007
+#EXTINF:-1,ESPN 3 SD
+http://sinalprivado.info:80/6198603/6198603/22008
+#EXTINF:-1,ESPN 4 FHD
+http://sinalprivado.info:80/6198603/6198603/22009
+#EXTINF:-1,ESPN 4 HD
+http://sinalprivado.info:80/6198603/6198603/22010
+#EXTINF:-1,ESPN 4 SD
+http://sinalprivado.info:80/6198603/6198603/22011
+#EXTINF:-1,ESPN 5 FHD
+http://sinalprivado.info:80/6198603/6198603/22012
+#EXTINF:-1,ESPN 5 HD
+http://sinalprivado.info:80/6198603/6198603/22013
+#EXTINF:-1,ESPN 5 SD
+http://sinalprivado.info:80/6198603/6198603/22014
+#EXTINF:-1,ESPN 6 FHD
+http://sinalprivado.info:80/6198603/6198603/22015
+#EXTINF:-1,ESPN 6 HD
+http://sinalprivado.info:80/6198603/6198603/22016
+#EXTINF:-1,ESPN 6 SD
+http://sinalprivado.info:80/6198603/6198603/22017
+#EXTINF:-1,Gospel Cartoon
+#EXTIMG https://example.com/icon.png
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1,Ministério Infantil TV
+#EXTIMG:https://i.imgur.com/1JVrZFk.png
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 group-title="Os simpsons" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/R7HHdp.png",OS SIMPSONS
 http://saga10.pro:80/345715/562156/2639432
 #EXTINF:-1 tvg-id="dummy-88" tvg-name="[24H] OS SIMPSONS2" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="Canais | Desenhos 24h",[24H] OS SIMPSONS
 http://cloudsalex.space:80/189429622779/409221103751/7310396.ts
 #EXTINF:-1,24H Os Simpsons Prime
 http://sinalprivado.info:80/6198603/6198603/38000
-#EXTINF:-1,24H Os Simpsons4
-https://kinder5.live/34211473179/88284437124/22214
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://3.bp.blogspot.com/-wpIcM5uVNjM/XkK3UBh269I/AAAAAAAACAk/dGpSIJo7AZo-5OnqzsF7f1qVUBS5WkC8QCK4BGAYYCw/s320/Os-Simpsons-PNG-Queroimagem.com.png" group-title="INFANTIL 24H",Os Simpsons
-https://kinder5.live/34211473179/88284437124/22214
+#EXTINF:-1,Loading...TV HD
+#EXTIMG:https://listaiptv.gratis/logos/imagens/loadingamarelo.png
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Bob Esponja | Plutão TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Bob Esponja | Plutão TV Brasil ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1,TV Mirante Balsas FHD
-http://sinalprivado.info:80/6198603/6198603/18150
-#EXTINF:-1,TV Mirante Balsas HD
-http://sinalprivado.info:80/6198603/6198603/18151
-#EXTINF:-1,TV Mirante Balsas SD
-http://sinalprivado.info:80/6198603/6198603/18152
-#EXTINF:-1,TV Mirante Balsas S
-http://sinalprivado.info:80/6198603/6198603/18153
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISC CHANNEL 4K" tvg-logo="https://lh3.googleusercontent.com/-bxtQ9NEFzF0/YG2obOYYzaI/AAAAAAAAKKw/MOXrrMLf-XUxMv4kLmhKOp0b1dLQGfx6gCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2B4K.png" group-title="DOCUMENTARIOS",DISC CHANNEL 4K
-https://kinder5.live/34211473179/88284437124/88412
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISC CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISC CHANNEL FHD
-https://kinder5.live/34211473179/88284437124/71048
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISC CHANNEL H265" tvg-logo="https://lh3.googleusercontent.com/-knWged2h77U/YG3yhHzLhsI/AAAAAAAAKNE/2S9OrM4kKFssVEplrZh2iIpdizJWvhS5wCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2BFHD%2BH.265.png" group-title="DOCUMENTARIOS",DISC CHANNEL H265
-https://kinder5.live/34211473179/88284437124/88460
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISC CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISC CHANNEL HD
-https://kinder5.live/34211473179/88284437124/71322
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISC CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISC CHANNEL SD
-https://kinder5.live/34211473179/88284437124/71181
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISC H & HEALTH 4K" tvg-logo="https://lh3.googleusercontent.com/-V_6OmDAnIXQ/YY5EFoDrIcI/AAAAAAAAKuA/o-z_6-IqNXI1cEmlKCvFciP1WP164d2tQCLcBGAsYHQ/home%2B4k.png" group-title="DOCUMENTARIOS",DISC H & HEALTH 4K
-https://kinder5.live/34211473179/88284437124/136307
-#EXTINF:-1,Gospel Cartoon
+#EXTINF:-1,TV Osório
 #EXTIMG https://example.com/icon.png
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Bíblico" tvg-logo="https://lh3.googleusercontent.com/-GBf7kIu-ioQ/X8vWJaPpvXI/AAAAAAAAHTU/9lj4cpZu6vMpQDSCbmd5S7d9vQkEOua5QCLcBGAsYHQ/Desenhos%2BB%25C3%25ADblico.png" group-title="INFANTIL 24H",Desenhos Bíblico
-https://kinder5.live/34211473179/88284437124/55561
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos da bíblia" tvg-logo="https://2.bp.blogspot.com/-d5_UU2aSMcI/XrWtUMaiQBI/AAAAAAAAE44/Kqyz-0cGKKcTXKjMAdet9P9R46P2-0coQCK4BGAYYCw/s320/3g7m6wui.png" group-title="INFANTIL 24H",Desenhos da bíblia
-https://kinder5.live/34211473179/88284437124/21250
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RD RIO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RIO HD
-https://kinder5.live/34211473179/88284437124/71040
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RD RJ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RJ HD
-https://kinder5.live/34211473179/88284437124/71506
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RD RJ HD¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RJ HD¹
-https://kinder5.live/34211473179/88284437124/162997
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RD RJ SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RJ SD
-https://kinder5.live/34211473179/88284437124/166401
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT RJ FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT ",SBT RJ FHD
-https://kinder5.live/34211473179/88284437124/71541
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT RJ HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT ",SBT RJ HD
-https://kinder5.live/34211473179/88284437124/71538
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT RS HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT ",SBT RS HD
-https://kinder5.live/34211473179/88284437124/71508
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SC FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT ",SBT SC FHD
-https://kinder5.live/34211473179/88284437124/71398
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s300/sbt.png" group-title="SBT ",SBT SD
-https://kinder5.live/34211473179/88284437124/168661
-#EXTINF:-1 tvg-id="" tvg-name="Show de piadas" tvg-logo="https://lh3.googleusercontent.com/-kjTZIOOMTJI/X2joaitUQ_I/AAAAAAAAHDI/xiCMMD0eCyg1AfXHshLkWGkCOfBiZJP5wCLcBGAsYHQ/show%2Bde%2Bpiada.png" group-title="COMEDIA 24H",Show de piadas
-https://kinder5.live/34211473179/88284437124/48668
-#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="https://lh3.googleusercontent.com/-p3TyUX9OeP0/X7pq2e9qtHI/AAAAAAAAHPo/6Z8ofutuJcgw2M97fy3baQJXZxAOaccXQCLcBGAsYHQ/Smallville.png" group-title="SERIES 24H",Smallville
-https://kinder5.live/34211473179/88284437124/53967
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K" tvg-logo="https://lh3.googleusercontent.com/-XgsZWFjysXk/YG2oioF-ohI/AAAAAAAAKL0/nhzSUpjnJn4ztx1Eh38Eac664kOF6rU_gCLcBGAsYHQ/SPACE%2B4K.png" group-title="FILMES E SERIES",SPACE 4K
-https://kinder5.live/34211473179/88284437124/88433
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES E SERIES",SPACE FHD
-https://kinder5.live/34211473179/88284437124/71099
-#EXTINF:-1 tvg-id="" tvg-name="Space Ghost" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh72DTzxuOhZaf6KNE6hxl_d3G2umESCvXiOltrn7-lwSF89bUlyAjpaIdgIWRfBOQiWoaA6ij5hA72NPNFQ9Z4shNSNl2IXXpsRwQ8Po2GLeJar2BYdXS24t6YMN8UCGG5hyAOCgoiYbRD6pkWVpVsPtG5Ts3Rw6wxauS_PsOaen-G2BSqeGXbOwHL" group-title="INFANTIL 24H",Space Ghost
-https://kinder5.live/34211473179/88284437124/235237
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE H265" tvg-logo="https://lh3.googleusercontent.com/-soe_nAQfako/YG3ynZhqySI/AAAAAAAAKN4/p2pYPWyktlEKJBf_1bKo4SNo-9DGUzxsQCLcBGAsYHQ/SPACE%2BDUAL%2BAUDO%2BH.265.png" group-title="FILMES E SERIES",SPACE H265
-https://kinder5.live/34211473179/88284437124/88446
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES E SERIES",SPACE HD
-https://kinder5.live/34211473179/88284437124/71380
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES E SERIES",SPACE SD
-https://kinder5.live/34211473179/88284437124/71262
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD" tvg-logo="https://4.bp.blogspot.com/-wvc-EwwkOlQ/Xv5002x0JWI/AAAAAAAAGhg/eNscRZ4W0i4HTYDVbafsWtSn_5WBUOx-wCK4BGAYYCw/s1600/SPORT%2BTV%2B1.png" group-title="PAY-PER-VIEW",SPORT TV 1 FHD
-https://kinder5.live/34211473179/88284437124/32616
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD" tvg-logo="https://2.bp.blogspot.com/-8MDD_LlrW8Q/Xv500096YuI/AAAAAAAAGhs/iiOwdOxdL68XkJNIJd5MhQDnHAv4NmQEwCK4BGAYYCw/s1600/SPORT%2BTV%2B2.png" group-title="PAY-PER-VIEW",SPORT TV 2 FHD
-https://kinder5.live/34211473179/88284437124/39986
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 4K" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="SPORTS",SPORTV 2 4K
-https://kinder5.live/34211473179/88284437124/237876
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="SPORTS",SPORTV 2 FHD
-https://kinder5.live/34211473179/88284437124/71121
-#EXTINF:-1 tvg-id="Sportv.2.HD.br" tvg-name="SPORTV 2 H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi6kvoyfSttlQ1KHZ46M70QEa41eWQo1SkDToziTGWJhaX_sNCp3xzFS4uV8tH5fMiV0XGcq0ckef-IShevw1l3Yx4DMoS4Muy1oFDoHOO2TvoM9cIq--BEWVy-ryRHx09PLcEnC76a5P4jCXjlvBwRhuxsQUno-8biEEG_5L6niIMK852ATPJrsBKO" group-title="SPORTS",SPORTV 2 H265
-https://kinder5.live/34211473179/88284437124/166820
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="SPORTS",SPORTV 2 HD
-https://kinder5.live/34211473179/88284437124/71381
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="SPORTS",SPORTV 2 SD
-https://kinder5.live/34211473179/88284437124/71264
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="SPORTS",SPORTV 3 FHD
-https://kinder5.live/34211473179/88284437124/71122
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 H265" tvg-logo="https://lh3.googleusercontent.com/-ntH6fnvr980/YG30ZmzbkrI/AAAAAAAAKOg/kWmJqWQVUu4lrkZ46HRlo5iF-JHVHRx3gCLcBGAsYHQ/Sportv%2BFHD%2B3%2BH.265.png" group-title="SPORTS",SPORTV 3 H265
-https://kinder5.live/34211473179/88284437124/88459
-#EXTINF:-1 tvg-id="SporTV.3.HD.br" tvg-name="SPORTV 3 HD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="SPORTS",SPORTV 3 HD
-https://kinder5.live/34211473179/88284437124/164284
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="SPORTS",SPORTV 3 SD
-https://kinder5.live/34211473179/88284437124/71265
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K" tvg-logo="https://lh3.googleusercontent.com/-Zb5Jg9iGj-4/YG2obFDviQI/AAAAAAAAKKs/Ycy5WeWqmocD5ilbECPvPbuYwkmEd3nvgCLcBGAsYHQ/SPORTV%2B4K.png" group-title="SPORTS",SPORTV 4K
-https://kinder5.live/34211473179/88284437124/88416
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K¹" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="SPORTS",SPORTV 4K¹
-https://kinder5.live/34211473179/88284437124/281023
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="SPORTS",SPORTV FHD
-https://kinder5.live/34211473179/88284437124/71120
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD¹" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="SPORTS",SPORTV FHD¹
-https://kinder5.live/34211473179/88284437124/281021
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV H265" tvg-logo="https://lh3.googleusercontent.com/-oGuL7zzH_20/YG3yiBiQgHI/AAAAAAAAKNM/9_H3Eg0hUJA5wkH4RiUfodBum9vY_wNHgCLcBGAsYHQ/SPORTV%2BFHD%2BH.265.png" group-title="SPORTS",SPORTV H265
-https://kinder5.live/34211473179/88284437124/88458
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="SPORTS",SPORTV HD
-https://kinder5.live/34211473179/88284437124/71382
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="SPORTS",SPORTV HD¹
-https://kinder5.live/34211473179/88284437124/281020
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="SPORTS",SPORTV SD
-https://kinder5.live/34211473179/88284437124/71263
-#EXTINF:-1 tvg-id="" tvg-name="STAR TREK" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgFMeOI4YHeNTVhYFy7OLLSlRcAjUSENtpFVN-kTaj-SefyySfeZWNx2zffkBR6Sl5Z4K1YYaXaGLzn_CiETMvMzSKXBdEsow0Teed-IFIluQUpP_oMCswQHE_glE3hTHdY-Vx_LxjwzGhsiYZA5rX4Nq4ASLQeL_CThWxhGG209qSlze3mj9HmiJmb" group-title="SERIES 24H",STAR TREK
-https://kinder5.live/34211473179/88284437124/266178
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Discovery" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjTq6Ixjkg_jci6N7lX8jB2Rlao0n_jSJP9IeDkpdyyxIbh7CaMe_OnZ4xKkWDfK3z4WaXuWNZ98_KyYcjNcspkjYrHy2elyUko98o2QtvstEdPZQsgrF74AINYa97-DHiEpIDiD5eW2jb0uJ417vN6h0AgFEvr_YuhUoEIKGUtmBw7sXP8hVEwP75FXHs" group-title="SERIES 24H",Star Trek Discovery
-https://kinder5.live/34211473179/88284437124/317091
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek_ Enterprise" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiBLE-eCl1fwzNsJ0rt2OEG39fhSm2XkXQ4bnWz0FI0voJ2zjJuc1Tu-EPqPEKicQu7KVm7Yg7-vC5us6cEzDfn_QDgEcXnh9_bitkUUXdsmplbJl9sFkbonDtUQsusKO_Hida6RSRMEh8_ywc1JlU927BJrUlXI5cWhDwYF-pexHAryVwmMQi-AfNZetk" group-title="SERIES 24H",Star Trek_ Enterprise
-https://kinder5.live/34211473179/88284437124/354900
-#EXTINF:-1 tvg-id="" tvg-name="Star vs. As Forças do Mal" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEghkdfQTUwaMOorMS5vY1WMXZfdTqtBOw0YOSPqVnqFTj9tAXjR8ZFzp2wajzrTg0rjjsrRAExXkM__AzFsH9XJBhWhYxBUeVbwxbZLQeJ-Bu3Xo3YGKdPF7ePJjIBOLO24dFBC59AO474Zm2aXWNMXG7EVQb_12IZkKJV302I_uZFeT8gjwSvkbS-yZW8" group-title="INFANTIL 24H",Star vs. As Forças do Mal
-https://kinder5.live/34211473179/88284437124/327742
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgNdh6oAXbThDzT4J_8ijutAgdYdKFUZCVZuhWMfEtaDiHn2vr-EhrL38JLNhE9Qw7xV8o9gNsCnb5beqLPK1a7HjEWpJ2KcKi5372Im3AY3KtkAdhQWE5cXRXtvLrEevUBLc_2V6XrkPOZiJvmNdzYxqwlu8OsyHlGt4CNmooE3w9VPPE_e30zuf9YnRI" group-title="FILMES 24H",Star Wars
-https://kinder5.live/34211473179/88284437124/327737
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars A Guerra dos Clones" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgIY_o30vTpLJsWR0WVcOvshey56Qvz0nOcNZR3WIZE8onp13vCKxFwJjUQwUYfj7arnLnr781-8ZEIcHo74MhHc3KRpJwuLMb7KmzdBZ_fxayEi61PXVhB904ORi-w9uyagJzT2hRNh5rgFBbbA9dXROJV4PbG2Zm2UvFpbUXzQZ3xz92EBse0qDgul1A" group-title="INFANTIL 24H",Star Wars A Guerra dos Clones
-https://kinder5.live/34211473179/88284437124/289074
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Rebels" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2Nbf4oLuyN8pdghEtmJayBetUH2qpjjg5C6qb7ABEpYpG9awENuYr8ZLL7KEXMBIjD8ajdKUdMbnOhgy1MZXJso31y4njC0j-Uhb5fIV_QHyuwLEH9vdqaWKUJpG6tP5CjPwRUHcZMdyEBcA2R6mTS-S5ThLisFF815j9pe4dF-VROcVWqOmz1dEIJeo" group-title="INFANTIL 24H",Star Wars Rebels
-https://kinder5.live/34211473179/88284437124/291768
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinOZaW8Xk5Bn2_A2MSSjxjltwWDfB0VqY_a9GIMEID-p-P6uNPfTuaefKXI-rDGXyB9M-CkghOCWjBn57JuiNUms68GJhwHCphYYk3xiZUIWRWxhx6prX1JHElPEuo6HFWsooa_UQOLIMca3MX6sXM7Tiku0mVAzGuNpP0eIyj1jU7zOrqT5VG-xT3DQ4" group-title="PAY-PER-VIEW",Disney+ 1
-https://kinder5.live/34211473179/88284437124/122062
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Disney+ 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinOZaW8Xk5Bn2_A2MSSjxjltwWDfB0VqY_a9GIMEID-p-P6uNPfTuaefKXI-rDGXyB9M-CkghOCWjBn57JuiNUms68GJhwHCphYYk3xiZUIWRWxhx6prX1JHElPEuo6HFWsooa_UQOLIMca3MX6sXM7Tiku0mVAzGuNpP0eIyj1jU7zOrqT5VG-xT3DQ4" group-title="PAY-PER-VIEW",Disney+ 2
-https://kinder5.live/34211473179/88284437124/136165
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinOZaW8Xk5Bn2_A2MSSjxjltwWDfB0VqY_a9GIMEID-p-P6uNPfTuaefKXI-rDGXyB9M-CkghOCWjBn57JuiNUms68GJhwHCphYYk3xiZUIWRWxhx6prX1JHElPEuo6HFWsooa_UQOLIMca3MX6sXM7Tiku0mVAzGuNpP0eIyj1jU7zOrqT5VG-xT3DQ4" group-title="PAY-PER-VIEW",Disney+ 3
-https://kinder5.live/34211473179/88284437124/136166
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 4" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinOZaW8Xk5Bn2_A2MSSjxjltwWDfB0VqY_a9GIMEID-p-P6uNPfTuaefKXI-rDGXyB9M-CkghOCWjBn57JuiNUms68GJhwHCphYYk3xiZUIWRWxhx6prX1JHElPEuo6HFWsooa_UQOLIMca3MX6sXM7Tiku0mVAzGuNpP0eIyj1jU7zOrqT5VG-xT3DQ4" group-title="PAY-PER-VIEW",Disney+ 4
-https://kinder5.live/34211473179/88284437124/136167
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinOZaW8Xk5Bn2_A2MSSjxjltwWDfB0VqY_a9GIMEID-p-P6uNPfTuaefKXI-rDGXyB9M-CkghOCWjBn57JuiNUms68GJhwHCphYYk3xiZUIWRWxhx6prX1JHElPEuo6HFWsooa_UQOLIMca3MX6sXM7Tiku0mVAzGuNpP0eIyj1jU7zOrqT5VG-xT3DQ4" group-title="PAY-PER-VIEW",Disney+ 5
-https://kinder5.live/34211473179/88284437124/136168
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 6" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinOZaW8Xk5Bn2_A2MSSjxjltwWDfB0VqY_a9GIMEID-p-P6uNPfTuaefKXI-rDGXyB9M-CkghOCWjBn57JuiNUms68GJhwHCphYYk3xiZUIWRWxhx6prX1JHElPEuo6HFWsooa_UQOLIMca3MX6sXM7Tiku0mVAzGuNpP0eIyj1jU7zOrqT5VG-xT3DQ4" group-title="PAY-PER-VIEW",Disney+ 6
-https://kinder5.live/34211473179/88284437124/136169
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER FHD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES E SERIES",WARNER FHD
-https://kinder5.live/34211473179/88284437124/71097
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER H265" tvg-logo="https://lh3.googleusercontent.com/-JfVd39qFADU/YG3ymU89CeI/AAAAAAAAKNw/q4PPPhAtybsl_-rvGumrKkGAQjczfMbfACLcBGAsYHQ/WARNER%2BCHANNEL%2BFHD%2BDUAL%2BAUDIO%2BH.265.png" group-title="FILMES E SERIES",WARNER H265
-https://kinder5.live/34211473179/88284437124/88449
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER HD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES E SERIES",WARNER HD
-https://kinder5.live/34211473179/88284437124/71402
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER SD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES E SERIES",WARNER SD
-https://kinder5.live/34211473179/88284437124/71300
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON 4K" tvg-logo="https://lh3.googleusercontent.com/-sesPk2onHdQ/YG2ob4F_6WI/AAAAAAAAKK8/9xV1ZmSswW0AE5sScNaDe1grki5Stx-vgCLcBGAsYHQ/CARTOON%2B4K.png" group-title="INFANTIL",CARTOON 4K
-https://kinder5.live/34211473179/88284437124/88418
-#EXTINF:-1 tvg-id="cartoon" tvg-name="CARTOON FHD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="INFANTIL",CARTOON FHD
-https://kinder5.live/34211473179/88284437124/71080
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhe3LvAhFtORpUkCrySK3p_cMApFv6nhxa6nDAL9JZry6UR4BiZmvismJfC-PsgzAsX_aXvuM_wrtSMUE_hGwO4x1Vnx9U6RXONJaOLm-x1QtyeOg-_mE79YgG5A8TWGMBgtFvCXozwo28H4dE94L9sifqJtMmMzfWgMDMdFdvwNw2PFVDs-vvyFn5A" group-title="INFANTIL",CARTOON H265
-https://kinder5.live/34211473179/88284437124/166791
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON HD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="INFANTIL",CARTOON HD
-https://kinder5.live/34211473179/88284437124/71318
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON SD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="INFANTIL",CARTOON SD
-https://kinder5.live/34211473179/88284437124/71692
-#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfO9IaZN8-KUzYHSzQx6NEkitjFmWuX_-v6z4Wpa0dYouCjzhW55JxzATjxBJ2EWRnKed29WpOAviEp2hGb7YQfxk51hZG7kAYkCsZk3YXVvyDhwNiYLJbg4YuQKEpW4H5rESv5D7EevbA_x7IytB_J6P4bPLEE-WT7p3ihzDX8tHp_Hnum0H83ngrslQ" group-title="COMEDIA 24H",Chaves
-https://kinder5.live/34211473179/88284437124/21236
-#EXTINF:-1 tvg-id="" tvg-name="chaves desenho" tvg-logo="https://4.bp.blogspot.com/-mrKzKxBSs_0/Xup1MPu7aFI/AAAAAAAAGYU/1nK7svGE2zUSVvkGptxaVcysKTmdPmsXACK4BGAYYCw/s1600/chaves%2Bdesebhos.png" group-title="INFANTIL 24H",chaves desenho
-https://kinder5.live/34211473179/88284437124/30738
-#EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 01
-https://kinder5.live/34211473179/88284437124/23395
-#EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 02
-https://kinder5.live/34211473179/88284437124/43022
-#EXTINF:-1 tvg-id="" tvg-name="CINE 03" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 03
-https://kinder5.live/34211473179/88284437124/45967
-#EXTINF:-1 tvg-id="" tvg-name="CINE 04" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 04
-https://kinder5.live/34211473179/88284437124/46445
-#EXTINF:-1 tvg-id="" tvg-name="CINE 05" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 05
-https://kinder5.live/34211473179/88284437124/47572
-#EXTINF:-1 tvg-id="" tvg-name="CINE 06" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 06
-https://kinder5.live/34211473179/88284437124/47573
-#EXTINF:-1 tvg-id="" tvg-name="CINE 07" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 07
-https://kinder5.live/34211473179/88284437124/42013
-#EXTINF:-1 tvg-id="" tvg-name="CINE 08" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 08
-https://kinder5.live/34211473179/88284437124/48642
-#EXTINF:-1 tvg-id="" tvg-name="CINE 09" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 09
-https://kinder5.live/34211473179/88284437124/48663
-#EXTINF:-1 tvg-id="" tvg-name="CINE 10" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA / COMEDIA",CINE 10
-https://kinder5.live/34211473179/88284437124/48665
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 1" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 1
-https://kinder5.live/34211473179/88284437124/87944
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 2" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 2
-https://kinder5.live/34211473179/88284437124/87945
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 3" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 3
-https://kinder5.live/34211473179/88284437124/87946
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 4" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 4
-https://kinder5.live/34211473179/88284437124/87947
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 5" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 5
-https://kinder5.live/34211473179/88284437124/87948
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 6
-https://kinder5.live/34211473179/88284437124/87949
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 7" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 7
-https://kinder5.live/34211473179/88284437124/288953
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 8" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 8
-https://kinder5.live/34211473179/88284437124/288954
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 9" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 9
-https://kinder5.live/34211473179/88284437124/288955
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 10" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE PIPOCA / COMEDIA",CINE COMEDIA 10
-https://kinder5.live/34211473179/88284437124/288956
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD ACTION" tvg-logo="https://1.bp.blogspot.com/-Yw4CYMSAYz8/XvvrSKqtdGI/AAAAAAAAGhA/zIvdMrpZdMo8cj-VMKHrQZo8cq0LaJUiQCLcBGAsYHQ/s1600/cine%2Ba%25C3%25A7%25C3%25A3o%2B01.png" group-title="FILMES 24H",CINE HD ACTION
-https://kinder5.live/34211473179/88284437124/32586
-#EXTINF:-1 tvg-id="" tvg-name="CINE KID" tvg-logo="https://1.bp.blogspot.com/-TncAaYInomk/X0VYuaSMK3I/AAAAAAAAG8Q/oq-7lA-JCs0xzSBgpw1X4De-Q6UscOiAgCLcBGAsYHQ/s300/CINE%2BKID.png" group-title="FILMES 24H",CINE KID
-https://kinder5.live/34211473179/88284437124/43368
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL VS DC" tvg-logo="https://4.bp.blogspot.com/-eNIsvpD7vwQ/Xt-W6zlbtvI/AAAAAAAAGNk/RwJanh-vRmAzfKsY2t9eIqJUOxdpZlBxgCK4BGAYYCw/s1600/Marvel%2Bvs%2BDC.png" group-title="FILMES 24H",CINE MARVEL VS DC
-https://kinder5.live/34211473179/88284437124/29900
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 01
-https://kinder5.live/34211473179/88284437124/48666
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 02
-https://kinder5.live/34211473179/88284437124/48667
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 03
-https://kinder5.live/34211473179/88284437124/48898
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 04
-https://kinder5.live/34211473179/88284437124/49119
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 05
-https://kinder5.live/34211473179/88284437124/139443
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 06
-https://kinder5.live/34211473179/88284437124/139444
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 07
-https://kinder5.live/34211473179/88284437124/116161
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 08
-https://kinder5.live/34211473179/88284437124/139439
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 09
-https://kinder5.live/34211473179/88284437124/139440
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY / SKY PLAY",CINE SKY 10
-https://kinder5.live/34211473179/88284437124/35432
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 1
-https://kinder5.live/34211473179/88284437124/136188
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 2
-https://kinder5.live/34211473179/88284437124/136189
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 3
-https://kinder5.live/34211473179/88284437124/136190
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 4" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 4
-https://kinder5.live/34211473179/88284437124/136191
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 5
-https://kinder5.live/34211473179/88284437124/136192
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 6" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 6
-https://kinder5.live/34211473179/88284437124/136193
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 7" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 7
-https://kinder5.live/34211473179/88284437124/136194
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 8
-https://kinder5.live/34211473179/88284437124/136195
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 9" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 9
-https://kinder5.live/34211473179/88284437124/136196
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 10" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY / SKY PLAY",CINE SKY CINEMA 10
-https://kinder5.live/34211473179/88284437124/291534
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 1
-https://kinder5.live/34211473179/88284437124/267936
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 2
-https://kinder5.live/34211473179/88284437124/267937
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 3
-https://kinder5.live/34211473179/88284437124/267938
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 4
-https://kinder5.live/34211473179/88284437124/267939
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 5
-https://kinder5.live/34211473179/88284437124/267940
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 6" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 6
-https://kinder5.live/34211473179/88284437124/267941
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 7" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 7
-https://kinder5.live/34211473179/88284437124/267942
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 8" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 8
-https://kinder5.live/34211473179/88284437124/267943
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 9
-https://kinder5.live/34211473179/88284437124/267944
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 10" tvg-logo="https://lh3.googleusercontent.com/-K9U6AAY5gic/YYvQAgFhMgI/AAAAAAAAKtA/fBp-mkQV0HEA4B7gRteNLExctFQqvnPLQCLcBGAsYHQ/skay%2Bplay.png" group-title="CINE SKY / SKY PLAY",CINE SKY PLAY 10
-https://kinder5.live/34211473179/88284437124/267945
-#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="https://3.bp.blogspot.com/-_kiK6-7GrGg/Xt0w2-0sz-I/AAAAAAAAGMw/nhYDku1wjC8ntnnNghaXYSD3SCVwIUq9wCK4BGAYYCw/s1600/cine%2Bterror.png" group-title="FILMES 24H",CINE TERROR
-https://kinder5.live/34211473179/88284437124/29633
-#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFTVbvieMMQOxGJwCQwqeCt2ayeiKnFEfcZ5mFURNGMPbFwWkWEsVaygdA5R8MNGt764JLLCn91_7WCRxU1gkbadqt5Uh_znwsnri6cGSxBi_vmSExh0aLror2Ke09FhZQlH65SG-21rIsHll7N1k8KtHnVzr3rBGPNpLkH-h6vyUhejQW4kdDKD0w" group-title="FILMES 24H",CINE TERROR 2
-https://kinder5.live/34211473179/88284437124/208943
-#EXTINF:-1 tvg-id="" tvg-name="Cine+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtEdXrKIwvJH1bo9q6mgC4avqgsUfb6OLOHZl5r9AqBTeTVu4e0JDVxIlw3tMY6BX23Stgz6pRovIbPqPSESkt5l6fDBut7j8p04WJbJ-xkKzuoOl1ulYS0p7_dQ7CobmB47xuYpHGsFRVAJ-I0tCeWuoiBLSBhF2MQgeSyeUtRpwYxBSH2WafsbCufdw" group-title="FILMES 24H",Cine+
-https://kinder5.live/34211473179/88284437124/327749
-#EXTINF:-1 tvg-id="" tvg-name="CINEBRASIL" tvg-logo="https://1.bp.blogspot.com/-9LHF3XJZ5LY/Xtl9ieFoiSI/AAAAAAAAGCk/gzTvt4LoKMYieF5f8Bv8aTcTvv8Ipm53gCK4BGAYYCw/s1600/ffffffff.png" group-title="FILMES 24H",CINEBRASIL
-https://kinder5.live/34211473179/88284437124/29227
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 01" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 01
-https://kinder5.live/34211473179/88284437124/312132
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 02" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 02
-https://kinder5.live/34211473179/88284437124/312133
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 03" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 03
-https://kinder5.live/34211473179/88284437124/312134
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 04" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 04
-https://kinder5.live/34211473179/88284437124/312135
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 05" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 05
-https://kinder5.live/34211473179/88284437124/312136
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 06" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 06
-https://kinder5.live/34211473179/88284437124/312137
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 07" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 07
-https://kinder5.live/34211473179/88284437124/312138
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 08" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 08
-https://kinder5.live/34211473179/88284437124/312139
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 09" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 09
-https://kinder5.live/34211473179/88284437124/312140
-#EXTINF:-1 tvg-id="" tvg-name="Cineflix 10" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgOkzgrcNu4sEOoOF5C1AdEUc3vwamDmDZl8BdMqOOE-IXLzYR-1JLlLV9LLUiSU_F0pswd_GaGQsS3cGHOluc1ithEE29_W8_awwo3JDvNSDy5CsHc35nOTYLxf6f109p21aZDpWJMXL_xpwr7jbzH24nn7rQ8o_gNdd3O36-lvjUNzWPU2UuRYmRg264" group-title="CINEFLIX",Cineflix 10
-https://kinder5.live/34211473179/88284437124/312141
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX FHD
-https://kinder5.live/34211473179/88284437124/71094
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiysFiZrE8xzvjXYIQAlrsNF-Q8DIupPcMsDKvAt_bYjPxdTcrczh32LYzne0SsVUynA3ASFGwKZc_q-XVyNX7kZwOvNpJc86x6g-qSuOGMppMYghv2ZmDZhoyzzFV1RQBOurBjLo0l_DDwmqwj8bDwBgdS3cku2BWL0xBj5J_mIW1x7wMOmtGY3TfV" group-title="FILMES E SERIES",CINEMAX H265
-https://kinder5.live/34211473179/88284437124/166792
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD
-https://kinder5.live/34211473179/88284437124/71319
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX SD
-https://kinder5.live/34211473179/88284437124/71177
-#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwtPL4D96mDIT7L1cNvG_K_NYT7jkPP2sbw-WtdiCGaPkit4cy8hRfOcJwjQYzDe-cG8iveu7sb83e17rVxly94ylQPoRjbsjyIJTA52-hQAbNPSMc6oF7cCi_p6ookMC6piEN9oG4UmktfITPRFgpxdl_tVjUW_OR_QHykHByzJRDDTWkedx0J6NuWz4" group-title="FILMES 24H",Classique TV
-https://kinder5.live/34211473179/88284437124/290976
-#EXTINF:-1 tvg-id="" tvg-name="Clipes Gospel" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiSSO_Nfrip0f0W60ixG8BNakZC4vttbosGT7olmAeS6H7CQYm0KzAWJPp5JkoAEJP8nk8nDmzQJqVBzQi792yjAiS6c5MFzULYlAilOhF39kpZjdvusGj2ywagrTBDp3JKHjnOkcU_IDc1uJjGqJY2gfSSaHkEeKCVyx4kWvhowHRIoky60C7Ht0M8" group-title="24H-SHOWS",Clipes Gospel
-https://kinder5.live/34211473179/88284437124/43023
-#EXTINF:-1 tvg-id="" tvg-name="clube-fm" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjL2nCaI3JNycWY_HTFxvTarX82CgJCgbZ7-mqGo6KmkDOLJjLgoE8ttmMUwvyFQckNKtyG_IGHqCmnTyzeyGs2TM12lksShwdIxJnsfxiSvKDpbevxkC1tuh1vdawuqyZP-YLXbWprFy2y7yX-jKAQN0nF9LIIDMOXKqWSbq5ojBV-BUozVs1Rs5c8CxA" group-title="RADIOS AO VIVO",clube-fm
-https://kinder5.live/34211473179/88284437124/253781
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL 4K" tvg-logo="https://lh3.googleusercontent.com/-kExfT4wSg-M/YY5EFxpI2nI/AAAAAAAAKuI/iuEh2lM3cDsoOkNbj61QFtAzLQ6n50nTwCLcBGAsYHQ/cnn%2B4k.png" group-title="NOTICIAS ",CNN BRASIL 4K
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1,MaisUm
+#EXTIMG:https://imgur.com/wE5uBK7.png
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF:-1,Gospel Music TV
+#EXTIMG:https://i.imgur.com/47oBUBM.png
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1,ATIVIDADE FM 87.9 Canudos BA
+#EXTIMG:https://imgur.com/11DH4AQ.png
+https://1.stmip.net:8070/stream
+#EXTINF:-1,Gospel Internacional
+#EXTIMG:https://i.imgur.com/UiNMxT2.png
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1,Brado Rádio 
+#EXTIMG:https://i.imgur.com/d2qdM76.png
+https://servidor17-5.brlogic.com:8300/live?source=links_page
+#EXTINF:-1,PLAYBOY
+http://sinalprivado.info:80/6198603/6198603/40000
+#EXTINF:-1,SEX PRIVE
+http://sinalprivado.info:80/6198603/6198603/40001
+#EXTINF:-1,SEXTREME
+http://sinalprivado.info:80/6198603/6198603/40002
+#EXTINF:-1,SEXY HOT
+http://sinalprivado.info:80/6198603/6198603/40003
+#EXTINF:-1,VENUS
+http://sinalprivado.info:80/6198603/6198603/40004
+#EXTINF:-1,Hardcore Erotic TV Online
+http://sinalprivado.info:80/6198603/6198603/40005
+#EXTINF:-1,Hardcore Web Tv
+http://sinalprivado.info:80/6198603/6198603/40006
+#EXTINF:-1,Hardcore Videos Non Stop
+http://sinalprivado.info:80/6198603/6198603/40007
+#EXTINF:-1,Adult TV Online POV
+http://sinalprivado.info:80/6198603/6198603/40008
+#EXTINF:-1,Adult TV Online Pornstar
+http://sinalprivado.info:80/6198603/6198603/40009
+#EXTINF:-1,Adult TV Online Milfs
+http://sinalprivado.info:80/6198603/6198603/40010
+#EXTINF:-1,Adult TV Live Cams
+http://sinalprivado.info:80/6198603/6198603/40011
+#EXTINF:-1,Adult TV Online Lesbian
+http://sinalprivado.info:80/6198603/6198603/40012
+#EXTINF:-1,Adult TV online Latina
+http://sinalprivado.info:80/6198603/6198603/40013
+#EXTINF:-1,Adult TV Online Interracial
+http://sinalprivado.info:80/6198603/6198603/40014
+#EXTINF:-1,Live Adult TV Hardcore
+http://sinalprivado.info:80/6198603/6198603/40015
+#EXTINF:-1,Adult IPTV Brunette
+http://sinalprivado.info:80/6198603/6198603/40016
+#EXTINF:-1,Adult IPTV Sexy Blondes
+http://sinalprivado.info:80/6198603/6198603/40017
