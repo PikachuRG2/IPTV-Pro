@@ -14,10 +14,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1,TV SIM São Mateus
 #EXTIMG:https://i.imgur.com/tLkF2BE.png
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1, Os Simpsons atual
-http://sinalprivado.info:80/6198603/6198603/38000
-#EXTINF:-1,Globo Brasília FHD
-http://sinalprivado.info:80/6198603/6198603/18012
 #EXTINF:-1,Globo Brasília HD
 http://sinalprivado.info:80/6198603/6198603/18013
 #EXTINF:-1,Globo Brasília SD
@@ -194,7 +190,6 @@ http://sinalprivado.info:80/6198603/6198603/13053
 http://sinalprivado.info:80/6198603/6198603/13027
 #EXTINF:-1,Space HD
 http://sinalprivado.info:80/6198603/6198603/13028
-#EXTINF:-1,Space SD
 #EXTINF:-1,Multishow FHD
 http://sinalprivado.info:80/6198603/6198603/12045
 #EXTINF:-1,Multishow HD
@@ -423,11 +418,11 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1,Ministério Infantil TV
 #EXTIMG:https://i.imgur.com/1JVrZFk.png
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 group-title="Os simpsons" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/R7HHdp.png",OS SIMPSONS
-http://sinalprivado.info:80/6198603/6198603/38000
+#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/R7HHdp.png",OS SIMPSONS
+http://saga10.pro:80/345715/562156/2639432
 #EXTINF:-1 tvg-id="dummy-88" tvg-name="[24H] OS SIMPSONS2" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="Canais | Desenhos 24h",[24H] OS SIMPSONS
-http://sinalprivado.info:80/6198603/6198603/38000
-#EXTINF:-1,24H Os Simpsons Prime
+http://cloudsalex.space:80/189429622779/409221103751/7310396.ts
+#EXTINF:-1,24H Os Simpsons3
 http://sinalprivado.info:80/6198603/6198603/38000
 #EXTINF:-1,Loading...TV HD
 #EXTIMG:https://listaiptv.gratis/logos/imagens/loadingamarelo.png
