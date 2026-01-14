@@ -14,37 +14,253 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1,TV SIM São Mateus
 #EXTIMG:https://i.imgur.com/tLkF2BE.png
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1,Globo Brasília HD
-http://sinalprivado.info:80/6198603/6198603/18013
-#EXTINF:-1,Globo Brasília SD
-http://sinalprivado.info:80/6198603/6198603/18014
-#EXTINF:-1,Globo Minas FHD
-http://sinalprivado.info:80/6198603/6198603/18015
-#EXTINF:-1,Globo Minas HD
-http://sinalprivado.info:80/6198603/6198603/18016
-#EXTINF:-1,Globo Minas SD
-http://sinalprivado.info:80/6198603/6198603/18017
-#EXTINF:-1,Globo Nordeste FHD
-http://sinalprivado.info:80/6198603/6198603/18018
-#EXTINF:-1,Globo Nordeste HD
-http://sinalprivado.info:80/6198603/6198603/18019
-#EXTINF:-1,Globo Nordeste SD
-http://sinalprivado.info:80/6198603/6198603/18020
-#EXTINF:-1,Globo Rio FHD
-http://sinalprivado.info:80/6198603/6198603/18021
-#EXTINF:-1,Globo Rio HD
-http://sinalprivado.info:80/6198603/6198603/18022
-#EXTINF:-1,Globo Rio SD
-http://sinalprivado.info:80/6198603/6198603/18023
-#EXTINF:-1,Globo São Paulo FHD
-http://sinalprivado.info:80/6198603/6198603/18024
-#EXTINF:-1,Globo São Paulo HD
-http://sinalprivado.info:80/6198603/6198603/18025
-#EXTINF:-1,Globo São Paulo SD
-#EXTINF:-1,TV Mirante Balsas HD
-http://sinalprivado.info:80/6198603/6198603/18151
-#EXTINF:-1,TV Mirante Balsas SD
-http://sinalprivado.info:80/6198603/6198603/18152
+#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="http://p6.vc/VCK" group-title="CANAIS ABERTOS",GLOBO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1
+#EXTINF:-1 tvg-id="ZYB517" tvg-name="SBT" tvg-logo="http://p6.vc/VBS" group-title="CANAIS ABERTOS",SBT
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2
+#EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="http://p6.vc/VVI" group-title="CANAIS ABERTOS",BAND
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
+#EXTINF:-1 tvg-id="ZYB516" tvg-name="RECORD TV" tvg-logo="http://servidor.vivatele.com/tv/logos/record.png" group-title="CANAIS ABERTOS",RECORD TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
+#EXTINF:-1 tvg-id="REDERJH" tvg-name="REDE TV" tvg-logo="http://p6.vc/AGY" group-title="CANAIS ABERTOS",REDE TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORD NEWS" tvg-logo="http://p6.vc/AWX" group-title="CANAIS ABERTOS",RECORD NEWS
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/23
+#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="http://p6.vc/VPE" group-title="CANAIS ABERTOS",JOVEM PAN NEWS
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/57
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL" tvg-logo="http://p6.vc/AXC" group-title="CANAIS ABERTOS",CNN BRASIL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/74
+#EXTINF:-1 tvg-id="CULTUHD" tvg-name="CULTURA" tvg-logo="http://p6.vc/AGR" group-title="CANAIS ABERTOS",CULTURA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/6
+#EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA" tvg-logo="http://p6.vc/VCE" group-title="CANAIS ABERTOS",FUTURA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GAZETA" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/d4/2019/07/17/logo-tv-gazeta-1563401680791_v2_615x300.jpg" group-title="CANAIS ABERTOS",GAZETA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/79
+#EXTINF:-1 tvg-id="APARHD" tvg-name="TV APARECIDA" tvg-logo="http://p6.vc/VPS" group-title="CANAIS ABERTOS",TV APARECIDA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/17
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANCAO NOVA" tvg-logo="http://p6.vc/VPV" group-title="CANAIS ABERTOS",CANAIS NOVA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/5
+#EXTINF:-1 tvg-id="BSNVSHD" tvg-name="REDE BOAS NOVAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="CANAIS ABERTOS",REDE BOAS NOVAS
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/14
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="CANAIS ABERTOS",REDE GOSPEL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/81
+#EXTINF:-1 tvg-id="RBIHD" tvg-name="RBI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e3/RBI_TV_Logo.png/150px-RBI_TV_Logo.png" group-title="CANAIS ABERTOS",RBI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/12
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT" tvg-logo="https://yt3.ggpht.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s512-ck-c0x00ffffff-no-rj" group-title="CANAIS ABERTOS",RIT
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/88
+#EXTINF:-1 tvg-id="" tvg-name="FILMES GOSPEL" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title="CANAIS ABERTOS",FILMES GOSPEL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/52
+#EXTINF:-1 tvg-id="RDVDAHD" tvg-name="REDE VIDA EDUCACAO" tvg-logo="http://p6.vc/VPR" group-title="CANAIS ABERTOS",REDE VIDA EDUCACAO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/49
+#EXTINF:-1 tvg-id="MLTCULT" tvg-name="EDUCACAO" tvg-logo="http://servidor.vivatele.com/tv/logos/educacao.jpeg" group-title="CANAIS ABERTOS",EDUCACAO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="http://servidor.vivatele.com/tv/logos/saude.jpeg" group-title="CANAIS ABERTOS",CANAL SAUDE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/4
+#EXTINF:-1 tvg-id="CANBOI" tvg-name="CANAL DO BOI" tvg-logo="http://p6.vc/AIA" group-title="CANAIS ABERTOS",CANAL DO BOI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/7
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-ck-c0x00ffffff-no-rj" group-title="CANAIS ABERTOS",CANAL RURAL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/89
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTAd-sBG5wzPZY87XqyHNCzzDzgIR4JQqou-MEs7Q=s512-ck-c0x00ffffff-no-rj" group-title="CANAIS ABERTOS",TERRA VIVA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/82
+#EXTINF:-1 tvg-id="" tvg-name="MAIS FAMÍLIA" tvg-logo="http://servidor.vivatele.com/tv/logos/familia.png" group-title="CANAIS ABERTOS",MAIS FAMÍLIA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/10
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="TV BRASIL" tvg-logo="http://p6.vc/AIG" group-title="CANAIS ABERTOS",TV BRASIL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/18
+#EXTINF:-1 tvg-id="SESCTV" tvg-name="SESC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcNk7yKnfllRSAcx1X2lwpvHZWbV5n1kqlMEilz-xow&s" group-title="CANAIS ABERTOS",SESC TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/48
+#EXTINF:-1 tvg-id="SENADOH" tvg-name="TV SENADO" tvg-logo="http://p6.vc/AHP" group-title="CANAIS ABERTOS",TV SENADO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/20
+#EXTINF:-1 tvg-id="CAMARAH" tvg-name="TV CAMARA" tvg-logo="http://p6.vc/AHR" group-title="CANAIS ABERTOS",TV CÂMARA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/19
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV" tvg-logo="https://p6.vc/ONW" group-title="CANAIS ABERTOS",FASHION TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/63
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO" tvg-logo="http://p6.vc/AJW" group-title="CANAIS ABERTOS",WOOHOO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/73
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV" tvg-logo="http://p6.vc/AIR" group-title="CANAIS ABERTOS",FISH TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21
+#EXTINF:-1 tvg-id="TVRAHD" tvg-name="RA-TIM-BUM" tvg-logo="http://p6.vc/AJV" group-title="CANAIS ABERTOS",RA-TIM-BUM
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/15
+#EXTINF:-1 tvg-id="UNIVEHD" tvg-name="UNIVESP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Logo_univesp.png?20140905193903" group-title="CANAIS ABERTOS",UNIVESP
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/22
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIE NETWORK" tvg-logo="http://servidor.vivatele.com/tv/logos/mytime.png" group-title="CANAIS ABERTOS",MY TIME MOVIE NETWORK
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/54
+#EXTINF:-1 tvg-id="TVBRHD" tvg-name="TVE" tvg-logo="http://servidor.vivatele.com/tv/logos/tve.png" group-title="CANAIS ABERTOS",TVE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/55
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALIZA FREEZONE" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/11/Imagem-de-Corpo-Horizontal-13-1024x576-1.png" group-title="CANAIS ABERTOS",ADRENALIZA FREEZONE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/64
+#EXTINF:-1 tvg-id="" tvg-name="GEEKDOT" tvg-logo="http://servidor.vivatele.com/tv/logos/geekdot.jpeg" group-title="CANAIS ABERTOS",GEEKDOT
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/71
+#EXTINF:-1 tvg-id="LONOHDV" tvg-name="LOVE NATURE" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="CANAIS ABERTOS",LOVE NATURE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/72
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EDUCAÇÃO" tvg-logo="" group-title="CANAIS ABERTOS",CANAL EDUCAÇÃO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/92
+#EXTINF:-1 tvg-id="" tvg-name="CANAL LIBRAS" tvg-logo="" group-title="CANAIS ABERTOS",CANAL LIBRAS
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/93
+#EXTINF:-1 tvg-id="" tvg-name="VIAJANDO PELO BRASIL" tvg-logo="http://servidor.vivatele.com/tv/logos/viajando.png" group-title="CANAIS ABERTOS",VIAJANDO PELO BRASIL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/65
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://servidor.vivatele.com/tv/logos/redbulltv.png" group-title="CANAIS ABERTOS",RED BULL TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAM FM" tvg-logo="https://w7.pngwing.com/pngs/313/989/png-transparent-teresina-jovem-pan-fm-fm-broadcasting-radio-radio-blue-electronics-logo.png" group-title="RADIO",RADIO JOVEM PAM FM
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/47
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FM O DIA AO VIVO" tvg-logo="https://seeklogo.com/images/F/Fm_O_Dia-logo-F0CD3E93CF-seeklogo.com.png" group-title="RADIO",RÁDIO FM O DIA AO VIVO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/42
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://servidor.vivatele.com/tv/logos/musictop.jpeg" group-title="CANAIS ABERTOS",MUSIC TOP
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/99
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="http://servidor.vivatele.com/tv/logos/fueltv.png" group-title="CANAIS ABERTOS",FUEL TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS" tvg-logo="http://servidor.vivatele.com/tv/logos/urbankids.png" group-title="CANAIS ABERTOS",URBAN KIDS
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/105
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO" tvg-logo="https://www.urbanplay.com.br/archives/15/retrieve" group-title="CANAIS ABERTOS",URBAN TURBO
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/106
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS" tvg-logo="https://www.urbanplay.com.br/archives/18-urban-docs-png_24033-n7svzg0a82k/retrieve" group-title="CANAIS ABERTOS", DOCUMENTOS URBANOS
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/107
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES" tvg-logo="https://www.urbanplay.com.br/archives/20-urban-movies-png_26568-z0cpuj3tmb/retrieve" group-title="CANAIS ABERTOS",FILMES URBANOS
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/108
+#EXTINF:-1 tvg-id="" tvg-name="SÉRIE URBANA" tvg-logo="https://www.urbanplay.com.br/archives/21-urban-series-png_21570-1uxfpsxoedh/retrieve" group-title="CANAIS ABERTOS",SÉRIE URBANA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL" tvg-logo="https://www.urbanplay.com.br/archives/23-urban-travel-png_22814-vwd27n3oby/retrieve" group-title="CANAIS ABERTOS",VIAGEM URBANA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/111
+#EXTINF:-1 tvg-id="" tvg-name="TURBO TV" tvg-logo="https://imgur.com/CaXWpQX.png" group-title="CANAIS ABERTOS",TURBO TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113
+#EXTINF:-1 tvg-id="" tvg-name="NATUREZA" tvg-logo="https://imgur.com/AgEFqXm.png" group-title="CANAIS ABERTOS",NATUREZA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/114
+#EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://imgur.com/W6s8vWC.png" group-title="CANAIS ABERTOS",MASTER CHEF
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/115
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="CANAIS ABERTOS",COMEDY CENTRAL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/116
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://imgur.com/5sLv99H.png" group-title="CANAIS ABERTOS",GOSPEL CARTOON
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/117
+#EXTINF:-1 tvg-id="" tvg-name="VIVA E EDUQUE" tvg-logo="https://imgur.com/HnzlMwp.png" group-title="CANAIS ABERTOS",VIVA E EDUQUE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/118
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="" group-title="CANAIS ABERTOS",BOB ESPONJA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/86
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://imgur.com/MOWXnxd.png" group-title="CANAIS ABERTOS",BOB ESPONJA
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/120
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://imgur.com/BqVNUCU.png" group-title="CANAIS ABERTOS",NICK JUNIOR CLUB
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/121
+#EXTINF:-1 tvg-id="" tvg-name="VELOCIDADE" tvg-logo="https://imgur.com/0Um60TH.png" group-title="CANAIS ABERTOS",VELOCIDADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/123
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="https://imgur.com/o9LgTUF.png" group-title="CANAIS ABERTOS",TOP TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/126
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://servidor.vivatele.com/tv/logos/anime_tv.jpg" group-title="CANAIS ABERTOS",ANIME TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/51
+#EXTINF:-1 tvg-id="TVMAXHD" tvg-name="TV MAX" tvg-logo="https://static.wixstatic.com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS ABERTOS",TV MAX
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/56
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="CANAIS ABERTOS",PEPPA PIG
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/87
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TUPI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/800px-Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="RADIO",RÁDIO TUPI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/28
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="CANAIS ABERTOS",CANAL UOL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/61
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="CANAIS ABERTOS",TASTEMADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/69
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="CANAIS ABERTOS",ISTV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/53
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="CANAIS ABERTOS",MASTER TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9880/viva_padrao/viva2384/120
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://imgur.com/BqVNUCU.png" group-title="CANAIS ABERTOS",NICK JUNIOR CLUB
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/121
+#EXTINF:-1 tvg-id="" tvg-name="VELOCIDADE" tvg-logo="https://imgur.com/0Um60TH.png" group-title="CANAIS ABERTOS",VELOCIDADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/123
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="https://imgur.com/o9LgTUF.png" group-title="CANAIS ABERTOS",TOP TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/126
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://servidor.vivatele.com/tv/logos/anime_tv.jpg" group-title="CANAIS ABERTOS",ANIME TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/51
+#EXTINF:-1 tvg-id="TVMAXHD" tvg-name="TV MAX" tvg-logo="https://static.wixstatic.com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS ABERTOS",TV MAX
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/56
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="CANAIS ABERTOS",PEPPA PIG http://gerenciar.vivatele.com:80/viva_padrao/viva2384/87
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TUPI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/800px-Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="RADIO",RÁDIO TUPI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/28
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="CANAIS ABERTOS",CANAL UOL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/61
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="CANAIS ABERTOS",TASTEMADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/69
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="CANAIS ABERTOS",ISTV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/53
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="CANAIS ABERTOS",MASTER TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9880/viva_padrao/viva2384/120
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://imgur.com/BqVNUCU.png" group-title="CANAIS ABERTOS",NICK JUNIOR CLUB
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/121
+#EXTINF:-1 tvg-id="" tvg-name="VELOCIDADE" tvg-logo="https://imgur.com/0Um60TH.png" group-title="CANAIS ABERTOS",VELOCIDADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/123
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="https://imgur.com/o9LgTUF.png" group-title="CANAIS ABERTOS",TOP TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/126
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://servidor.vivatele.com/tv/logos/anime_tv.jpg" group-title="CANAIS ABERTOS",ANIME TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/51
+#EXTINF:-1 tvg-id="TVMAXHD" tvg-name="TV MAX" tvg-logo="https://static.wixstatic.com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS ABERTOS",TV MAX
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/56
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="CANAIS ABERTOS",PEPPA PIG
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/87
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TUPI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/800px-Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="RADIO",RÁDIO TUPI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/28
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="CANAIS ABERTOS",CANAL UOL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/61
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="CANAIS ABERTOS",TASTEMADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/69
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="CANAIS ABERTOS",ISTV http://gerenciar.vivatele.com:80/viva_padrao/viva2384/53
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="CANAIS ABERTOS",MASTER TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/98png" group-title="CANAIS ABERTOS",VELOCIDADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/123
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="https://imgur.com/o9LgTUF.png" group-title="CANAIS ABERTOS",TOP TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/126
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://servidor.vivatele.com/tv/logos/anime_tv.jpg" group-title="CANAIS ABERTOS",ANIME TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/51
+#EXTINF:-1 tvg-id="TVMAXHD" tvg-name="TV MAX" tvg-logo="https://static.wixstatic.com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS ABERTOS",TV MAX
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/56
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="CANAIS ABERTOS",PEPPA PIG
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/87
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TUPI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/800px-Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="RADIO",RÁDIO TUPI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/28
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="CANAIS ABERTOS",CANAL UOL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/61
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="CANAIS ABERTOS",TASTEMADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/69
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="CANAIS ABERTOS",ISTV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/53
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="CANAIS ABERTOS",MASTER TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/98png" group-title="CANAIS ABERTOS",VELOCIDADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/123
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="https://imgur.com/o9LgTUF.png" group-title="CANAIS ABERTOS",TOP TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/126
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://servidor.vivatele.com/tv/logos/anime_tv.jpg" group-title="CANAIS ABERTOS",ANIME TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/51
+#EXTINF:-1 tvg-id="TVMAXHD" tvg-name="TV MAX" tvg-logo="https://static.wixstatic.com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS ABERTOS",TV MAX
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/56
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="CANAIS ABERTOS",PEPPA PIG
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/87
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TUPI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/800px-Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="RADIO",RÁDIO TUPI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/28
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="CANAIS ABERTOS",CANAL UOL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/61
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="CANAIS ABERTOS",TASTEMADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/69
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="CANAIS ABERTOS",ISTV http://gerenciar.vivatele.com:80/viva_padrao/viva2384/53
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="CANAIS ABERTOS",MASTER TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/98com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS ABERTOS",TV MAX
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/56
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="CANAIS ABERTOS",PEPPA PIG
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/87
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TUPI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/800px-Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="RADIO",RADIO TUPI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/28
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="CANAIS ABERTOS",CANAL UOL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/61
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="CANAIS ABERTOS",TASTEMADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/69
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="CANAIS ABERTOS",ISTV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/53
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="CANAIS ABERTOS",MASTER TV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/98com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS ABERTOS",TV MAX
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/56
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="CANAIS ABERTOS",PEPPA PIG
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/87
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TUPI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/800px-Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="RADIO",RADIO TUPI
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/28
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="CANAIS ABERTOS",CANAL UOL
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/61
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="CANAIS ABERTOS",TASTEMADE
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/69
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="CANAIS ABERTOS",ISTV
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/53
 #EXTINF:-1,SBT Interior
 #EXTIMG https://example.com/icon.png
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -117,8 +333,6 @@ https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 #EXTINF:-1, Universo TV
 #EXTIMG:https://i.imgur.com/TQKRfvo.png
 https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
-
-
 #EXTINF:-1,Runtime Ação HD
 #EXTIMG:https://imgur.com/3Wpaz9E.png
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -148,270 +362,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 
-#EXTINF:-1,A&E HD
-http://sinalprivado.info:80/6198603/6198603/12001
-#EXTINF:-1,A&E SD
-http://sinalprivado.info:80/6198603/6198603/12002
-#EXTINF:-1,Discovery Channel FHD
-http://sinalprivado.info:80/6198603/6198603/23009
-#EXTINF:-1,Discovery Channel HD
-http://sinalprivado.info:80/6198603/6198603/23010
-#EXTINF:-1,Discovery Channel SD
-http://sinalprivado.info:80/6198603/6198603/23011
-#EXTINF:-1,ID: Investigação Discovery HD
-http://sinalprivado.info:80/6198603/6198603/23031
-#EXTINF:-1,ID: Investigação Discovery SD
-http://sinalprivado.info:80/6198603/6198603/23032
-#EXTINF:-1,Cartoon Network FHD
-http://sinalprivado.info:80/6198603/6198603/24003
-#EXTINF:-1,Cartoon Network HD
-http://sinalprivado.info:80/6198603/6198603/24004
-#EXTINF:-1,Cartoon Network SD
-http://sinalprivado.info:80/6198603/6198603/24005
-#EXTINF:-1,Cartoonito FHD
-http://sinalprivado.info:80/6198603/6198603/24006
-#EXTINF:-1,Nick Jr HD
-http://sinalprivado.info:80/6198603/6198603/24022
-#EXTINF:-1,Nick Jr SD
-http://sinalprivado.info:80/6198603/6198603/24023
-#EXTINF:-1,Nickelodeon FHD
-http://sinalprivado.info:80/6198603/6198603/24024
-#EXTINF:-1,Nickelodeon HD
-http://sinalprivado.info:80/6198603/6198603/24025
-#EXTINF:-1,Nickelodeon SD
-http://sinalprivado.info:80/6198603/6198603/24026
-#EXTINF:-1,Warner Channel FHD
-http://sinalprivado.info:80/6198603/6198603/13051
-#EXTINF:-1,Warner Channel HD
-http://sinalprivado.info:80/6198603/6198603/13052
-#EXTINF:-1,Warner Channel SD
-http://sinalprivado.info:80/6198603/6198603/13053
-#EXTINF:-1,Space FHD
-http://sinalprivado.info:80/6198603/6198603/13027
-#EXTINF:-1,Space HD
-http://sinalprivado.info:80/6198603/6198603/13028
-#EXTINF:-1,Multishow FHD
-http://sinalprivado.info:80/6198603/6198603/12045
-#EXTINF:-1,Multishow HD
-http://sinalprivado.info:80/6198603/6198603/12046
-#EXTINF:-1,Multishow SD
-http://sinalprivado.info:80/6198603/6198603/12047
-EXTINF:-1,TV Gazeta Sul HD
-http://sinalprivado.info:80/6198603/6198603/18253
-#EXTINF:-1,TV Gazeta Sul SD
-http://sinalprivado.info:80/6198603/6198603/18254
-#EXTINF:-1,TV Anhanguera Palmas FHD
-http://sinalprivado.info:80/6198603/6198603/18255
-#EXTINF:-1,TV Anhanguera Palmas HD
-http://sinalprivado.info:80/6198603/6198603/18256
-#EXTINF:-1,TV Anhanguera Palmas SD
-http://sinalprivado.info:80/6198603/6198603/18257
-#EXTINF:-1,RBS TV Santa Cruz FHD
-http://sinalprivado.info:80/6198603/6198603/18258
-#EXTINF:-1,RBS TV Santa Cruz HD
-http://sinalprivado.info:80/6198603/6198603/18259
-#EXTINF:-1,RBS TV Santa Cruz SD
-http://sinalprivado.info:80/6198603/6198603/18260
-#EXTINF:-1,Band Sports FHD
-http://sinalprivado.info:80/6198603/6198603/19000
-#EXTINF:-1,Band Sports HD
-http://sinalprivado.info:80/6198603/6198603/19001
-#EXTINF:-1,Band Sports SD
-http://sinalprivado.info:80/6198603/6198603/19002
-#EXTINF:-1,UFC Fight Pass 1 (reprises)
-http://sinalprivado.info:80/6198603/6198603/19003
-#EXTINF:-1,UFC Fight Pass 2 (ao vivo)
-http://sinalprivado.info:80/6198603/6198603/19004
-#EXTINF:-1,UFC Fight Pass 3 (ao vivo)
-http://sinalprivado.info:80/6198603/6198603/19005
-#EXTINF:-1,Combate FHD
-http://sinalprivado.info:80/6198603/6198603/19006
-#EXTINF:-1,Combate HD
-http://sinalprivado.info:80/6198603/6198603/19007
-#EXTINF:-1,Combate SD
-http://sinalprivado.info:80/6198603/6198603/19008
-#EXTINF:-1,Amazon Prime Video 01
-http://sinalprivado.info:80/6198603/6198603/19021
-#EXTINF:-1,Amazon Prime Video 02
-http://sinalprivado.info:80/6198603/6198603/19022
-#EXTINF:-1,Amazon Prime Video 03
-http://sinalprivado.info:80/6198603/6198603/19023
-#EXTINF:-1,SportyNet 01
-http://sinalprivado.info:80/6198603/6198603/19024
-#EXTINF:-1,SportyNet 02
-http://sinalprivado.info:80/6198603/6198603/19025
-#EXTINF:-1,SportyNet 03
-http://sinalprivado.info:80/6198603/6198603/19026
-#EXTINF:-1,SportyNet 04
-http://sinalprivado.info:80/6198603/6198603/19027
-#EXTINF:-1,DAZN 1
-http://sinalprivado.info:80/6198603/6198603/19028
-#EXTINF:-1,DAZN 2
-http://sinalprivado.info:80/6198603/6198603/19029
-#EXTINF:-1,DAZN 3
-http://sinalprivado.info:80/6198603/6198603/19030
-#EXTINF:-1,MAX 01
-http://sinalprivado.info:80/6198603/6198603/19033
-#EXTINF:-1,MAX 02
-http://sinalprivado.info:80/6198603/6198603/19034
-#EXTINF:-1,MAX 03
-http://sinalprivado.info:80/6198603/6198603/19035
-#EXTINF:-1,MAX 04
-http://sinalprivado.info:80/6198603/6198603/19036
-#EXTINF:-1,MAX 05
-http://sinalprivado.info:80/6198603/6198603/19037
-#EXTINF:-1,Paulistão
-http://sinalprivado.info:80/6198603/6198603/19038
-#EXTINF:-1,Disney+ 1
-http://sinalprivado.info:80/6198603/6198603/19041
-#EXTINF:-1,Disney+ 2
-http://sinalprivado.info:80/6198603/6198603/19042
-#EXTINF:-1,Disney+ 3
-http://sinalprivado.info:80/6198603/6198603/19043
-#EXTINF:-1,Furacão TV
-http://sinalprivado.info:80/6198603/6198603/19044
-#EXTINF:-1,FORMULA 1 TV
-http://sinalprivado.info:80/6198603/6198603/19045
-#EXTINF:-1,NSports FHD
-http://sinalprivado.info:80/6198603/6198603/19064
-#EXTINF:-1,NSports HD
-http://sinalprivado.info:80/6198603/6198603/19065
-#EXTINF:-1,NSports SD
-http://sinalprivado.info:80/6198603/6198603/19066
-#EXTINF:-1,CazeTV 01
-http://sinalprivado.info:80/6198603/6198603/19068
-#EXTINF:-1,CazeTV 02
-http://sinalprivado.info:80/6198603/6198603/19069
-#EXTINF:-1,CazeTV 03
-http://sinalprivado.info:80/6198603/6198603/19070
-#EXTINF:-1,Paramount+ 1
-http://sinalprivado.info:80/6198603/6198603/19071
-#EXTINF:-1,Paramount+ 2
-http://sinalprivado.info:80/6198603/6198603/19072
-#EXTINF:-1,Paramount+ 3
-http://sinalprivado.info:80/6198603/6198603/19073
-#EXTINF:-1,Paramount+ 4
-http://sinalprivado.info:80/6198603/6198603/19074
-#EXTINF:-1,Remo TV
-http://sinalprivado.info:80/6198603/6198603/19077
-#EXTINF:-1,PapãoTV
-http://sinalprivado.info:80/6198603/6198603/19078
-#EXTINF:-1,XSports
-http://sinalprivado.info:80/6198603/6198603/19079
-#EXTINF:-1,Canal Goat 01
-http://sinalprivado.info:80/6198603/6198603/19080
-#EXTINF:-1,Canal Goat 02
-http://sinalprivado.info:80/6198603/6198603/19081
-#EXTINF:-1,Canal Goat 03
-http://sinalprivado.info:80/6198603/6198603/19082
-#EXTINF:-1,﻿Premiere 1 FHD
-http://sinalprivado.info:80/6198603/6198603/20000
-#EXTINF:-1,Premiere 1 HD
-http://sinalprivado.info:80/6198603/6198603/20001
-#EXTINF:-1,Premiere 1 SD
-http://sinalprivado.info:80/6198603/6198603/20002
-#EXTINF:-1,Premiere 2 FHD
-http://sinalprivado.info:80/6198603/6198603/20003
-#EXTINF:-1,Premiere 2 HD
-http://sinalprivado.info:80/6198603/6198603/20004
-#EXTINF:-1,Premiere 2 SD
-http://sinalprivado.info:80/6198603/6198603/20005
-#EXTINF:-1,Premiere 3 FHD
-http://sinalprivado.info:80/6198603/6198603/20006
-#EXTINF:-1,Premiere 3 HD
-http://sinalprivado.info:80/6198603/6198603/20007
-#EXTINF:-1,Premiere 3 SD
-http://sinalprivado.info:80/6198603/6198603/20008
-#EXTINF:-1,Premiere 4 FHD
-http://sinalprivado.info:80/6198603/6198603/20009
-#EXTINF:-1,Premiere 4 HD
-http://sinalprivado.info:80/6198603/6198603/20010
-#EXTINF:-1,Premiere 4 SD
-http://sinalprivado.info:80/6198603/6198603/20011
-#EXTINF:-1,Premiere 5 FHD
-http://sinalprivado.info:80/6198603/6198603/20012
-#EXTINF:-1,Premiere 5 HD
-http://sinalprivado.info:80/6198603/6198603/20013
-#EXTINF:-1,Premiere 5 SD
-http://sinalprivado.info:80/6198603/6198603/20014
-#EXTINF:-1,Premiere 6 FHD
-http://sinalprivado.info:80/6198603/6198603/20015
-#EXTINF:-1,Premiere 6 HD
-http://sinalprivado.info:80/6198603/6198603/20016
-#EXTINF:-1,Premiere 6 SD
-http://sinalprivado.info:80/6198603/6198603/20017
-#EXTINF:-1,Premiere 7 FHD
-http://sinalprivado.info:80/6198603/6198603/20018
-#EXTINF:-1,Premiere 7 HD
-http://sinalprivado.info:80/6198603/6198603/20019
-#EXTINF:-1,Premiere 7 SD
-http://sinalprivado.info:80/6198603/6198603/20020
-#EXTINF:-1,Premiere 8 FHD
-http://sinalprivado.info:80/6198603/6198603/20021
-#EXTINF:-1,Premiere 8 HD
-http://sinalprivado.info:80/6198603/6198603/20022
-#EXTINF:-1,Premiere 8 SD
-http://sinalprivado.info:80/6198603/6198603/20023
-#EXTINF:-1,SporTV FHD
-http://sinalprivado.info:80/6198603/6198603/21000
-#EXTINF:-1,SporTV HD
-http://sinalprivado.info:80/6198603/6198603/21001
-#EXTINF:-1,SporTV SD
-http://sinalprivado.info:80/6198603/6198603/21002
-#EXTINF:-1,SporTV 2 FHD
-http://sinalprivado.info:80/6198603/6198603/21003
-#EXTINF:-1,SporTV 2 HD
-http://sinalprivado.info:80/6198603/6198603/21004
-#EXTINF:-1,SporTV 2 SD
-http://sinalprivado.info:80/6198603/6198603/21005
-#EXTINF:-1,SporTV 3 FHD
-http://sinalprivado.info:80/6198603/6198603/21006
-#EXTINF:-1,SporTV 3 HD
-http://sinalprivado.info:80/6198603/6198603/21007
-#EXTINF:-1,SporTV 3 SD
-http://sinalprivado.info:80/6198603/6198603/21008
-#EXTINF:-1,SporTV 4 FHD
-http://sinalprivado.info:80/6198603/6198603/21009
-#EXTINF:-1,SporTV 4 HD
-http://sinalprivado.info:80/6198603/6198603/21010
-#EXTINF:-1,SporTV 4 SD
-http://sinalprivado.info:80/6198603/6198603/21011
-#EXTINF:-1,ESPN FHD
-http://sinalprivado.info:80/6198603/6198603/22000
-#EXTINF:-1,ESPN HD
-http://sinalprivado.info:80/6198603/6198603/22001
-#EXTINF:-1,ESPN SD
-http://sinalprivado.info:80/6198603/6198603/22002
-#EXTINF:-1,ESPN 2 FHD
-http://sinalprivado.info:80/6198603/6198603/22003
-#EXTINF:-1,ESPN 2 HD
-http://sinalprivado.info:80/6198603/6198603/22004
-#EXTINF:-1,ESPN 2 SD
-http://sinalprivado.info:80/6198603/6198603/22005
-#EXTINF:-1,ESPN 3 FHD
-http://sinalprivado.info:80/6198603/6198603/22006
-#EXTINF:-1,ESPN 3 HD
-http://sinalprivado.info:80/6198603/6198603/22007
-#EXTINF:-1,ESPN 3 SD
-http://sinalprivado.info:80/6198603/6198603/22008
-#EXTINF:-1,ESPN 4 FHD
-http://sinalprivado.info:80/6198603/6198603/22009
-#EXTINF:-1,ESPN 4 HD
-http://sinalprivado.info:80/6198603/6198603/22010
-#EXTINF:-1,ESPN 4 SD
-http://sinalprivado.info:80/6198603/6198603/22011
-#EXTINF:-1,ESPN 5 FHD
-http://sinalprivado.info:80/6198603/6198603/22012
-#EXTINF:-1,ESPN 5 HD
-http://sinalprivado.info:80/6198603/6198603/22013
-#EXTINF:-1,ESPN 5 SD
-http://sinalprivado.info:80/6198603/6198603/22014
-#EXTINF:-1,ESPN 6 FHD
-http://sinalprivado.info:80/6198603/6198603/22015
-#EXTINF:-1,ESPN 6 HD
-http://sinalprivado.info:80/6198603/6198603/22016
-#EXTINF:-1,ESPN 6 SD
-http://sinalprivado.info:80/6198603/6198603/22017
 #EXTINF:-1,Gospel Cartoon
 #EXTIMG https://example.com/icon.png
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
@@ -449,39 +399,3 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #EXTINF:-1,Brado Rádio 
 #EXTIMG:https://i.imgur.com/d2qdM76.png
 https://servidor17-5.brlogic.com:8300/live?source=links_page
-#EXTINF:-1,PLAYBOY
-http://sinalprivado.info:80/6198603/6198603/40000
-#EXTINF:-1,SEX PRIVE
-http://sinalprivado.info:80/6198603/6198603/40001
-#EXTINF:-1,SEXTREME
-http://sinalprivado.info:80/6198603/6198603/40002
-#EXTINF:-1,SEXY HOT
-http://sinalprivado.info:80/6198603/6198603/40003
-#EXTINF:-1,VENUS
-http://sinalprivado.info:80/6198603/6198603/40004
-#EXTINF:-1,Hardcore Erotic TV Online
-http://sinalprivado.info:80/6198603/6198603/40005
-#EXTINF:-1,Hardcore Web Tv
-http://sinalprivado.info:80/6198603/6198603/40006
-#EXTINF:-1,Hardcore Videos Non Stop
-http://sinalprivado.info:80/6198603/6198603/40007
-#EXTINF:-1,Adult TV Online POV
-http://sinalprivado.info:80/6198603/6198603/40008
-#EXTINF:-1,Adult TV Online Pornstar
-http://sinalprivado.info:80/6198603/6198603/40009
-#EXTINF:-1,Adult TV Online Milfs
-http://sinalprivado.info:80/6198603/6198603/40010
-#EXTINF:-1,Adult TV Live Cams
-http://sinalprivado.info:80/6198603/6198603/40011
-#EXTINF:-1,Adult TV Online Lesbian
-http://sinalprivado.info:80/6198603/6198603/40012
-#EXTINF:-1,Adult TV online Latina
-http://sinalprivado.info:80/6198603/6198603/40013
-#EXTINF:-1,Adult TV Online Interracial
-http://sinalprivado.info:80/6198603/6198603/40014
-#EXTINF:-1,Live Adult TV Hardcore
-http://sinalprivado.info:80/6198603/6198603/40015
-#EXTINF:-1,Adult IPTV Brunette
-http://sinalprivado.info:80/6198603/6198603/40016
-#EXTINF:-1,Adult IPTV Sexy Blondes
-http://sinalprivado.info:80/6198603/6198603/40017
