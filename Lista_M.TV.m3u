@@ -361,19 +361,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTIMG:https://imgur.com/KQt9WGA.png
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-
 #EXTINF:-1,Gospel Cartoon
 #EXTIMG https://example.com/icon.png
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1,Ministério Infantil TV
 #EXTIMG:https://i.imgur.com/1JVrZFk.png
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/R7HHdp.png",OS SIMPSONS
-http://saga10.pro:80/345715/562156/2639432
-#EXTINF:-1 tvg-id="dummy-88" tvg-name="[24H] OS SIMPSONS2" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="Canais | Desenhos 24h",[24H] OS SIMPSONS
-http://cloudsalex.space:80/189429622779/409221103751/7310396.ts
-#EXTINF:-1,24H Os Simpsons3
-http://sinalprivado.info:80/6198603/6198603/38000
 #EXTINF:-1,Loading...TV HD
 #EXTIMG:https://listaiptv.gratis/logos/imagens/loadingamarelo.png
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
