@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1,A Fazenda - Sinal 1
-http://sinalprivado.info:80/6198603/6198603/11500
-#EXTINF:-1,A Fazenda - Sinal 2
-http://sinalprivado.info:80/6198603/6198603/11501
-#EXTINF:-1,A Fazenda - Sinal 3
-http://sinalprivado.info:80/6198603/6198603/11502
-#EXTINF:-1,A Fazenda - Sinal 4
-http://sinalprivado.info:80/6198603/6198603/11503
-#EXTINF:-1,A Fazenda - Sinal 5
-http://sinalprivado.info:80/6198603/6198603/11504
-#EXTINF:-1,A Fazenda - Sinal 6
-http://sinalprivado.info:80/6198603/6198603/11505
+http:\\gerenciar.vivatele.com:80\viva_padrao\viva2384\1
 #EXTINF:-1,A&E FHD
 http://sinalprivado.info:80/6198603/6198603/12000
 #EXTINF:-1,A&E HD
