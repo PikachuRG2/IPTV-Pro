@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,TV - Globo SP
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1
-#EXTINF:-1 tvg-id="ZYB517" tvg-name="SBT" tvg-logo="http://p6.vc/VBS" group-title="CANAIS ABERTOS",SBT
+#EXTINF:-1 tv-SBT
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2
 #EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="http://p6.vc/VVI" group-title="CANAIS ABERTOS",BAND
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
